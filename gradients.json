@@ -1,4 +1,9 @@
 [
+  {
+    "name":"Combo",
+    "colors":["#f12711",#FF9F1A"]
+   },
+            
     {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
